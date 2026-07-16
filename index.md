@@ -1,7 +1,7 @@
 # Privacy Policy — Matchday FC
 
 **Effective date: 1 August 2026**
-**Last updated: 14 June 2026**
+**Last updated: 15 July 2026**
 
 This Privacy Policy explains what personal data Matchday FC ("the app", "we",
 "us") collects, why, and what rights you have. Matchday FC is a free,
@@ -27,6 +27,12 @@ or request, contact: **ludovic.dalessio@gmail.com**.
 - Leagues you create or join, the team names you choose per league, your
   predictions ("picks") and golden-game predictions, and the resulting scores
   and standings.
+
+**Messages information**
+- If you use a league's chat, we store the messages you post (their text, author,
+  and timestamp), any reports you submit about a message, and the list of members
+  you have blocked. Chat is available only in private leagues, and only to their
+  approved members.
 
 **Technical information**
 - A login session token stored locally on your device to keep you signed in.
@@ -73,6 +79,12 @@ our behalf, only to operate the app:
 
 We do not share your data with anyone else, and we never sell it.
 
+**Other league members.** Some information is visible to the other members of a
+league you belong to — for example your team name, your standings, and, once
+each round locks, your predictions. Anything you post in a league's chat is
+visible to the other approved members of that private league. This information
+is not public and is not shown to anyone outside that league.
+
 ---
 
 ## 4. International transfers
@@ -90,6 +102,13 @@ We keep your data while your account is active. When you delete your account,
 we delete your personal data from our active systems; residual copies may
 persist briefly in routine backups before being overwritten.
 
+**Messages.** Chat messages are kept until they are removed. You can delete your
+own messages, and a league owner can remove any message in a league they own;
+removed messages are hidden from all members. If you delete your account, your
+past messages are no longer shown with your name — they appear under an
+anonymised label — and may remain visible to members of the leagues where you
+posted them so those conversations stay readable.
+
 ---
 
 ## 6. Your rights
@@ -101,8 +120,7 @@ complaint with your data protection authority — in Italy, the Garante per la
 protezione dei dati personali.
 
 To exercise any of these rights, or to **delete your account**, contact us at
-**ludovic.dalessio@gmail.com**. [Once in-app deletion ships: "or use Profile →
-Delete account in the app."]
+**ludovic.dalessio@gmail.com**, or use Profile → Delete account in the app.
 
 ---
 
@@ -116,7 +134,23 @@ information.
 
 ---
 
-## 8. Children
+## 8. Messages and moderation
+
+League chat is user-generated content, and we have zero tolerance for
+objectionable content or abusive behaviour.
+
+- **Reporting.** Any member can report a message for review.
+- **Blocking.** Any member can block another member; once you block someone, you
+  no longer see their messages.
+- **Removal.** You can remove your own messages, and a league owner can remove any
+  message in a league they own. Removed messages are hidden from all members.
+- **Enforcement.** We review reported content and, where warranted, remove it and
+  may restrict or remove members who abuse the service. We aim to act on reports
+  within 24 hours.
+
+---
+
+## 9. Children
 
 Matchday FC is intended for adults (18+) and is not directed to children. We do
 not knowingly collect personal data from children. If you believe a child has
@@ -124,15 +158,15 @@ provided us data, contact us and we will delete it.
 
 ---
 
-## 9. Changes to this policy
+## 10. Changes to this policy
 
 We may update this policy from time to time. We will post the updated version
-here and revise the "Last updated" date above. Significant changes (for
-example, when in-app messaging is introduced) will be described in the updated
+here and revise the "Last updated" date above. Significant changes — such as the
+introduction of in-app league chat in this version — are described in the updated
 policy.
 
 ---
 
-## 10. Contact
+## 11. Contact
 
 Questions or requests: **ludovic.dalessio@gmail.com**.
